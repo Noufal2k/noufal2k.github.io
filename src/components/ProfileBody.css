@@ -1,0 +1,6 @@
+.bodycontents {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 5px;
+}
