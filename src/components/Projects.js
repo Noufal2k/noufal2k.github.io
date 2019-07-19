@@ -7,9 +7,9 @@ class Projects extends Component {
                 { border: '1px solid skyblue', borderRadius: '5px',
                 display:'flex', flex:'0 80%', justifyContent: 'space-around' }
                 }>
-                <div style={{ display: 'flex' }}> Project 1 </div>
-                <div style={{ display: 'flex' }}> Project 2 </div>
-                <div style={{ display: 'flex' }}> Project 3 </div>
+                <div> Project 1 </div>
+                <div> Project 2 </div>
+                <div> Project 3 </div>
             </div>
         );
     }
