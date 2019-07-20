@@ -21,6 +21,7 @@ const About = () => {
                 </p>
                 <div className="about-text">
                     Hardworking and enthusiastic web developer able to deliver high standard, reliable and secure web application on time.
+                    <p>Stack: Nodejs, Express, React, Graphql, Mongodb/PostgreSQL</p>
                 </div>
             </div>
         </div>
